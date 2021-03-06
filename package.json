@@ -1,0 +1,17 @@
+{
+  "name": "tddPractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.8",
+    "@babel/plugin-transform-modules-commonjs": "^7.13.8",
+    "babel-jest": "^26.6.3",
+    "cross-env": "^7.0.3",
+    "jest": "^26.6.3"
+  }
+}
